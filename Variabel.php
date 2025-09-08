@@ -4,14 +4,14 @@ $umur = 15;
 $alamat = "Pacitan";
 $sudah_lulus = true;
 
-// Tampilkan dengan echo
-echo "Nama : $Afril Angga Kurniawan\n";
-echo "Umur : $15\n";
-echo "Alamat : $Pacitan\n";
-echo "Sudah Lulus : $true\n";
+//Tampilkan dengan echo
+echo "Nama : ".$nama_lengkap."\n";
+echo "Umur : ".$umur."\n";
+echo "Alamat : ".$alamat."\n";
+echo "Sudah Lulus : ".$sudah_lulus."\n";
 
 //Tampilkan dengan var_dump
-var_dump($Afril Angga Kurniawan);
-var_dump($15);
-var_dump($Pacitan);
-var_dump($true);
+var_dump($nama_lengkap);
+var_dump($umur);
+var_dump($alamat);
+var_dump($sudah_lulus);

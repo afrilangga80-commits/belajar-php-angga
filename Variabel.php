@@ -12,6 +12,6 @@ echo "Sudah Lulus : $true\n";
 
 //Tampilkan dengan var_dump
 var_dump($Afril Angga Kurniawan);
-var_dump(15);
-var_dump(Pacitan);
-var_dump(true);
+var_dump($15);
+var_dump($Pacitan);
+var_dump($true);
